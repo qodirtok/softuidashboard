@@ -20,7 +20,7 @@ import typography from "assets/theme/base/typography";
 // import Projects from "layouts/dashboard/components/Projects";
 // import OrderOverview from "layouts/dashboard/components/OrderOverview";
 
-function dashboardcustom() {
+function karyawan() {
   const { size } = typography;
   return (
     <DashboardLayout>
@@ -31,4 +31,4 @@ function dashboardcustom() {
   );
 }
 
-export default dashboardcustom;
+export default karyawan;
